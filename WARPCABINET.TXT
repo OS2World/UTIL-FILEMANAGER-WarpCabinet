@@ -1,0 +1,50 @@
+Warp Cabinet (VERSION 1.00) 
+Copyright (c) 1995 Ziff Davis Publishing Company
+First Published in PC Magazine February 20, 1996
+------------------------------------------------------------------------
+Warp Cabinet by Richard Dragan
+
+PURPOSE:
+
+        Warp Cabinet is an OS/2 Warp file management utility that is
+easier to use than the Drives tool included with OS/2. Its interface
+is similar to the Windows 3.1 File Manager, but it can display multiple
+drives in a single window like the Windows 95 Explorer.
+
+USAGE:
+
+       To install Warp Cabinet, copy the files WARPCAB.EXE and 
+WARPCAB.INI to a directory on your hard disk. The directory need not be
+in your path, but both files must be in the same directory. Then add an
+icon for Warp Cabinet to your OS/2 desktop.
+
+       When you launch Warp Cabinet, you'll see a dual pane window. Your installed drives and directories appear in the All Folders list in the
+left pane. The contents of the highlighted folder is displayed in the
+right pane.
+
+       You can move selected files by dragging them to the desired folder
+in the left pane and dropping them. To copy files, hold down the Control
+key when dragging and dropping the file. You can also move and copy 
+files through menu options.
+
+       To print a text file, drag it to the OS/2 Printer icon and drop
+it. Double click on an executable to run it; double click on a document
+file to open it within the program that manages it. Menu items let you
+set up additional associations, change file attributes, customize the
+file display, and other options.
+
+SUPPORT FOR WARP CABINET:
+
+Help for the free utilities offered by PC Magazine can be obtained
+electronically in the Utilities section of ZiffNet's TIPS forum
+(GO ZNT:TIPS) hosted by CompuServe Information Service. The authors of
+current utilities generally visit this forum every day. You may find
+an answer to your question simply by reading the messages previously 
+posted in the forum. If the author is not available and you have a 
+question that the sysops in the forum can't answer, the editor of the
+Utilities column, who also checks this forum each day, will contact the
+author for you.
+------------------------------------------------------------------------
+Richard Dragan is a programer for PC Magazine Labs and teaches C++ at 
+Columbia University.
+------------------------------------------------------------------------
